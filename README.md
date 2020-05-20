@@ -29,7 +29,7 @@ State your assumptions. Anywhere you feel that the requirements are unclear plea
 * Any other material that you feel is relevant for your solution 
 
 ### Setup & Configuration
-* **Step 1**: clone this repo (only one branch here: `master`)
+* **Step 1**: clone this repo && `cd task_1_python`
 * **Step 2**: sync and resolve dependencies: `pipenv install`
 
 ### Test App
