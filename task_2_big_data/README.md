@@ -1,4 +1,4 @@
-[Diagram](/RelayR_Task_2.jpeg)
+[Diagram](RelayR_Task_2.jpeg)
 
 ## Processing / Streaming
 
